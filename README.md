@@ -32,11 +32,7 @@
    - The web-based UI simplifies feature flag management, clearly visualizing feature settings, availability, and usage trends. This allows technical and non-technical users to quickly toggle, update, and monitor features without diving into the codebase.
 
 ## Getting Started
-
-### Prerequisites
-- **Go** 1.18 or later
-- **Docker** (for optional containerized deployment)
-- **PostgreSQL** or other supported databases for data storage
+#TODO
 
 ### Installation
 #TODO
